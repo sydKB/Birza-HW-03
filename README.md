@@ -1,7 +1,7 @@
 # 03 JavaScript: Password Generator
 
 ## Completed Application
-### https://sydkb.github.io/HW-02-Practice-Portfolio/
+### https://sydkb.github.io/HW-03-Password-Generator/
 ![deployed example output](assets/deployed-site.jpg)
 
 
